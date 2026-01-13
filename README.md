@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- ===================================================== -->
+<!--  ████  JERRY :: GENOME // EVOLUTION // CILIATES ████  -->
+<!-- ===================================================== -->
 
-<!--
-**ZhaoruiZhou/ZhaoruiZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+🧬 JERRY
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Navigating the Microbial Cosmos
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+PhD Researcher · Ciliate Genomics · Evolutionary Genetics  
+<br>
+Ocean University of China (OUC)
+</p>
+
+<p align="center">
+<a href="mailto:zzr1999@163.com">
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL-00f5ff?style=for-the-badge&logo=protonmail&logoColor=black"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:8a2be2&height=120&section=header"/>
+</p>
+
+---
+
+## 🧠 SYSTEM PROFILE
+
+```yaml
+ID: Jerry
+ROLE: PhD Candidate
+AFFILIATION: Ocean University of China (OUC)
+DOMAIN:
+  - Ciliate Genomics
+  - Genome Evolution
+  - Molecular Genetics
+STATUS: Actively decoding unicellular complexity
