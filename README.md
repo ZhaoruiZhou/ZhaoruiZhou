@@ -2,6 +2,8 @@
 <!--  ████  JERRY :: GENOME // EVOLUTION // CILIATES ████  -->
 <!-- ===================================================== -->
 
+
+
 <h1 align="center">
 🧬 JERRY
 </h1>
@@ -30,12 +32,19 @@ Ocean University of China (OUC)
 
 ## 🧠 SYSTEM PROFILE
 
-```yaml
-ID: Jerry
-ROLE: PhD Candidate
-AFFILIATION: Ocean University of China (OUC)
 DOMAIN:
   - Ciliate Genomics
   - Genome Evolution
   - Molecular Genetics
 STATUS: Actively decoding unicellular complexity
+
+
+📡 Contact
+
+📮 Email: zzr1999111@163.com
+🧑‍🔬 Name: Jerry Zhou
+🏫 Affiliation: Ocean University of China (OUC)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Initializing+Genome+Analysis+Module...;Loading+Ciliate+Genomes+%5BOK%5D;Scanning+Intron+Loss+Patterns...;Reverse+Transcription+Signal+Detected;Research+Log+Status%3A+ACTIVE" />
+</p>
