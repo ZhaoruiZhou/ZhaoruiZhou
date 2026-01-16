@@ -13,7 +13,7 @@ Navigating the Microbial Cosmos
 </h3>
 
 <p align="center">
-PhD Researcher · Ciliate Genomics · Evolutionary Genetics  
+PhD Candidate · Ciliate Genomics · Evolutionary Genetics  
 <br>
 Ocean University of China (OUC)
 </p>
